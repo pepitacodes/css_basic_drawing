@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(250, 168, 97);
+}
+.libreta {
+    border-radius: 5%;
+    margin: 50px;
+    background-color: rgb(154, 48, 242);
+    width: 120px;
+    height: 150px;
+    box-shadow: 5px 5px white, 10px 10px rgb(258, 224, 90);
+    padding: 5px 0px;
+    display: grid;
+}
+
+.hebilla {
+    width: 18px;
+    height: 4px;
+    background-color: rgb(111, 162, 111);
+    right: 7px;
+    top: 5px;
+    border-radius: 30%;
+    position: relative;
+    z-index: 1;
+    box-shadow: 4px 0px green;
+}
+.circle {
+    background-color: white;
+    width: 6px;
+    height: 6px;
+    border-radius: 10px;
+    left: 12px;
+    position: absolute;
+}

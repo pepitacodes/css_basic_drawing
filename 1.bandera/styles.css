@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+  }
+  
+
+.bandera {
+    height: 50px;
+    width: 200px;
+    margin: 70px;
+    background-color: red;
+    box-shadow: 0px 50px white, 0px 100px green;
+  }
